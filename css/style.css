@@ -1,0 +1,36 @@
+.herobody {
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    padding-left: 10vw;
+    padding-top: 3vw;
+    padding-bottom: 25vw;
+    background-image: url(../img/Tingicetocht.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.csstitle {
+    font-size: 3vw;
+    font-weight: bold;
+    color: white;
+}
+
+.csssubtitle {
+    font-size: 1.5vw;
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    margin: 5px; 
+    background-color: bisque;
+}
+
+.foot {
+    font-weight: bold;
+    font-size: 2vw;
+    text-align: center;
+    background-color: hsl(141, 51%, 58%);
+    padding: 5vw;
+    color: white;
+}
